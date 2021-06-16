@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ayush625
+- 👀 I’m interested in Android and web development
+- 🌱 I’m currently learning data structure and Competitive Programming
+- 💞️ I’m looking to collaborate on web tech
+- 📫 For contact please mail on ayushshrivastav575@gmail.com
