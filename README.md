@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Ayush625
-- 👀 I’m interested in Android and web development
+- 👀 I’m interested in System Software and Web development
+- 🎯 I've Completed basisc in C,C++ programming languages
 - 🌱 I’m currently learning data structure and Competitive Programming
-- 💞️ I’m looking to collaborate on web tech
+- 💞️ I’m looking to collaborate on projects with C/C++ language
 - 📫 For contact please mail on ayushshrivastav575@gmail.com
