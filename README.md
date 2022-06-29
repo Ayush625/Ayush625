@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Ayush Shrivastav
 - 🌱 I’m currently learning data structure and Competitive Programming
-- 💞️ I’m looking to collaborate on projects with C/C++ language
+- 💞️ I’m looking to collaborate on projects with web dev
 - 📫 For contact please mail on ayushshrivastav575@gmail.com
